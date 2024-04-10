@@ -3,20 +3,9 @@
 `Checkout Live Website`
 - https://info-todoproject.netlify.app
 
+
 ![Alt](screenshot.png)
 
-## Getting Started
-
-Clone this repository on your local machine.
-```
-git clone https://github.com/Va2/react-todo-list.git
-cd react-todo-list
-```
-Run the following commands into the project folder to install project dependencies.
-```
-npm init
-npm install
-```
 
 In the project directory, you can run:
 
