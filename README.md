@@ -1,7 +1,7 @@
 # ReactJS Todo List project
 
 ### `Checkout Live Website`
-- https://info-todoproject.netlify.app
+# - https://info-todoproject.netlify.app
 
 
 ![Alt](screenshot.png)
