@@ -3,7 +3,7 @@
 `Checkout Live Website`
 https://info-todoproject.netlify.app
 
-![Alt](https://raw.githubusercontent.com/Va2/react-todo-list/master/screenshot.jpg)
+![Alt](https://raw.githubusercontent.com/Va2/react-todo-list/master/screenshot.png)
 
 ## Getting Started
 
