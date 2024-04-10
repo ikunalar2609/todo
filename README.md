@@ -1,9 +1,9 @@
 # ReactJS Todo List project
 
 `Checkout Live Website`
-https://info-todoproject.netlify.app
+- https://info-todoproject.netlify.app
 
-![Alt](https://raw.githubusercontent.com/Va2/react-todo-list/master/screenshot.png)
+![Alt](screenshot.png)
 
 ## Getting Started
 
